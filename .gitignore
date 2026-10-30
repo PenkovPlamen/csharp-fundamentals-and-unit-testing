@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Debug files
+*.pdb
+
+# Temporary files
+*.cache
+
+# Visual Studio generated files
+*.sln.docstates

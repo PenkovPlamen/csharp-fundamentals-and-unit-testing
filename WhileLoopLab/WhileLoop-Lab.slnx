@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01-Numbers-1-To-100/01-Numbers-1-To-100.csproj" />
+  <Project Path="02-DecreasingNumbers/02-DecreasingNumbers.csproj" />
+  <Project Path="03-OddNumber/03-OddNumber.csproj" />
+  <Project Path="04-Sequence-2K+1/04-Sequence-2K+1.csproj" />
+  <Project Path="05-SumDigits/05-SumDigits.csproj" />
+  <Project Path="06-NumberInRange/06-NumberInRange.csproj" />
+  <Project Path="07-NumberProcessor/07-NumberProcessor.csproj" />
+</Solution>

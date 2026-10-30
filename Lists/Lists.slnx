@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="01-ChangeList/01-ChangeList.csproj" />
+  <Project Path="02-ListOfProducts/02-ListOfProducts.csproj" />
+  <Project Path="03-RemoveNegativesAndReverse/03-RemoveNegativesAndReverse.csproj" />
+</Solution>

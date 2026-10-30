@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01-EqualArrays/01-EqualArrays.csproj" />
+  <Project Path="02-CommonElements/02-CommonElements.csproj" Id="b775e9df-0c4f-49ae-967b-0ffec4620fde" />
+  <Project Path="03-CondenseArrayToNumber/03-CondenseArrayToNumber.csproj" Id="e2eb89d5-556c-4998-94a2-fe9a3805ae50" />
+  <Project Path="04-MagicSum/04-MagicSum.csproj" Id="ef2805dc-fd5b-42fe-b627-0f6fad41a6b2" />
+  <Project Path="05-ZigZagArrays/05-ZigZagArrays.csproj" Id="62ec76d7-1f21-4511-a89a-8de3f0d3b2a9" />
+  <Project Path="06-ArrayRotation/06-ArrayRotation.csproj" Id="89791030-6a78-4c5c-ba07-42a91ba15740" />
+  <Project Path="07-TopInteger/07-TopInteger.csproj" Id="7c6d161a-36cb-4f3b-bd17-945d283dacf5" />
+</Solution>

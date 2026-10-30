@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="01-FreezingWeather/01-FreezingWeather.csproj" />
+  <Project Path="02-EvenOrOdd/02-EvenOrOdd.csproj" />
+  <Project Path="03-NumberAsWords/03-NumberAsWords.csproj" />
+  <Project Path="04-GreaterNumber/04-GreaterNumber.csproj" />
+  <Project Path="05-GuessThePassword/05-GuessThePassword.csproj" />
+  <Project Path="06-BoilingWater/06-BoilingWater.csproj" />
+  <Project Path="07-SpeedInfo/07-SpeedInfo.csproj" />
+  <Project Path="08-TicketPrice/08-TicketPrice.csproj" />
+  <Project Path="09-ValidTriangle/09-ValidTriangle.csproj" />
+</Solution>

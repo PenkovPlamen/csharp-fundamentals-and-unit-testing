@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01-NumbersInRange/01-NumbersInRange.csproj" />
+  <Project Path="02-First-N-Numbers-Sum/02-First-N-Numbers-Sum.csproj" />
+  <Project Path="03-SumNumbers/03-SumNumbers.csproj" />
+  <Project Path="04-NumbersEndingIn7/04-NumbersEndingIn7.csproj" />
+  <Project Path="05-Numbers-From-1-To-N-Over-3/05-Numbers-From-1-To-N-Over-3.csproj" />
+  <Project Path="06-ExamCountdown/06-ExamCountdown.csproj" />
+  <Project Path="07-LatinLetters/07-LatinLetters.csproj" />
+</Solution>

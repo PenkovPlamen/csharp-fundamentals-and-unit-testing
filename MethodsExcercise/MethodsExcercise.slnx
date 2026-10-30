@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01-VowelsCount/01-VowelsCount.csproj" />
+  <Project Path="03-MultiplicationSign/03-MultiplicationSign.csproj" />
+  <Project Path="04-PasswordValidator/04-PasswordValidator.csproj" />
+  <Project Path="05-MultiplyEvenByOdds/05-MultiplyEvenByOdds.csproj" Id="edc9665f-fc0e-4fab-a205-24b2a7980fce" />
+  <Project Path="FactorialDivision/02-FactorialDivision.csproj" />
+  <Project Path="Orders/Orders.csproj" Id="f55c304d-eef2-48b4-accb-9be6535daeea" />
+</Solution>

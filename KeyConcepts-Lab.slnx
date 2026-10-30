@@ -1,9 +1,0 @@
-<Solution>
-  <Folder Name="/KeyConceptsLab/">
-    <Project Path="02-Four-Operations/02-Four-Operations.csproj" />
-    <Project Path="03-Market/03-Market.csproj" />
-    <Project Path="04-Tiles/04-Tiles.csproj" />
-    <Project Path="05-Deposit-Calculator/05-Deposit-Calculator.csproj" />
-    <Project Path="06-Mandatory-Literature/06-Mandatory-Literature.csproj" />
-  </Folder>
-</Solution>

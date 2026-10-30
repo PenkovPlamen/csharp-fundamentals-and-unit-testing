@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01-DayOfWeek/01-DayOfWeek.csproj" />
+  <Project Path="02-SumOfArray/02-SumOfArray.csproj" />
+  <Project Path="03-ReverseAnArray/03-ReverseAnArray.csproj" />
+  <Project Path="04-EvenAndOddSubstraction/04-EvenAndOddSubstraction.csproj" />
+</Solution>

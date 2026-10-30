@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01-SignOfIntegerNumber/01-SignOfIntegerNumber.csproj" />
+  <Project Path="02-Grades/02-Grades.csproj" />
+  <Project Path="03-PrintTriangle/03-PrintTriangle.csproj" />
+  <Project Path="04-CalculateRectangleArea/04-CalculateRectangleArea.csproj" />
+  <Project Path="05-RepeatString/05-RepeatString.csproj" />
+  <Project Path="06-MathPower/06-MathPower.csproj" />
+  <Project Path="07-GreaterOfTwoValues/07-GreaterOfTwoValues.csproj" />
+</Solution>

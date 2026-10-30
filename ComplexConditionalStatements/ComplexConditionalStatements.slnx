@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="01-Marketplace/01-Marketplace.csproj" />
+  <Project Path="02-LargestNumberOutOfThree/02-LargestNumberOutOfThree.csproj" />
+  <Project Path="03-BonusScore/03-BonusScore.csproj" />
+  <Project Path="04-FoodOrDrink/04-FoodOrDrink.csproj" />
+  <Project Path="05-InvalidNumber/05-InvalidNumber.csproj" />
+  <Project Path="06-DaysOfWeek/06-DaysOfWeek.csproj" />
+  <Project Path="07-VowelOrConsonant/07-VowelOrConsonant.csproj" Id="c11fe2b9-e538-4ed3-99e5-4bbbc485a9eb" />
+  <Project Path="08-SortedNumber/08-SortedNumber.csproj" />
+  <Project Path="09-Cinema/09-Cinema.csproj" Id="9e959a82-db27-4837-be20-d35bb5b7acd5" />
+</Solution>

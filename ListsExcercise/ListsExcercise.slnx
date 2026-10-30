@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="01-Train/01-Train.csproj" />
+  <Project Path="02-HouseParty/02-HouseParty.csproj" />
+  <Project Path="03-ListOperations/03-ListOperations.csproj" Id="248b0de6-db92-4c68-aff0-a47299836d68" />
+  <Project Path="04-ListManipulationBasics/04-ListManipulationBasics.csproj" Id="e5cc7a8b-9f8d-44d3-a286-5aadee9f70d2" />
+  <Project Path="05-BombNumbers/05-BombNumbers.csproj" Id="ac38e20a-90cc-480e-b4db-a61fe8ed5476" />
+</Solution>
